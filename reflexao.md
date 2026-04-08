@@ -18,7 +18,7 @@ Outra coisa que ficou mais clara foi o funcionamento do Pull Request. Percebi qu
 
 ## O que ainda é confuso
 
-Mesmo tendo conseguido concluir o exercício, ainda existem algumas coisas que não entendi completamente. Às vezes o processo de merge ainda é um pouco confuso para mim. Em alguns momentos eu alterava algo no código e esperava ver apenas o nome do commit que eu tinha criado, mas aparecia também um commit com algo como "merge branch main...". Sei que isso não é um erro, mas ainda não entendi totalmente como o git decide quando um merge pode ser feito automaticamente e quando ele gera um conflito.
+Ainda existem algumas coisas que não entendi completamente, às vezes o processo de merge ainda é um pouco confuso para mim. Em alguns momentos eu alterava algo no código e esperava ver apenas o nome do commit que eu tinha criado, mas aparecia um commit com algo como "merge branch main...". Sei que isso não é um erro, mas ainda não entendi totalmente como o git decide quando um merge pode ser feito automaticamente e quando ele gera um conflito.
 
 Como fiz o exercício sozinha, também fiquei curiosa sobre como essa organização de branches funciona em projetos maiores, com várias pessoas trabalhando ao mesmo tempo.
 
